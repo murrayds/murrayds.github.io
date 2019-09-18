@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Dakota Murray</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Sep 2019 20:46:50 -0400</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 16 Sep 2019 20:46:50 -0400</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a computational social scientist studying the social and epistemic dynamics of the global scientific ecosystem. I mostly rely on using neural-network based representation learning to construct simplified embeddings of bibliometric and social networks. I also more generally leverage data science tools such as machine learning, statistical analysis, bibliometrics, and corpus linguistics to make sense of scholarly data.&lt;/p&gt;
+
+&lt;p&gt;I am currently pursuing a PhD at Indiana University Bloomington in the department of Informatics, Computing, and Engineering. I have been fortunate enough to be advised by Dr. Cassidy Sugimoto and am currently working as a research assistant on the Minerva-funded &lt;em&gt;Sciecne Genome&lt;/em&gt; project. Apart from work, I enjoy running, cooking, traveling, and reading science fiction.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alexis-Michel Mugabushaka</title>
+      <link>/authors/alexis-michel-mugabushaka/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/alexis-michel-mugabushaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Plume</title>
+      <link>/authors/andrew-plume/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/andrew-plume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annette Flanagin</title>
+      <link>/authors/annette-flanagin/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/annette-flanagin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ben Martin</title>
+      <link>/authors/ben-martin/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ben-martin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bernd Pulverer</title>
+      <link>/authors/bernd-pulverer/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/bernd-pulverer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bosman Jeroen</title>
+      <link>/authors/bosman-jeroen/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/bosman-jeroen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cassidy R. Sugimoto</title>
+      <link>/authors/cassidy-r.-sugimoto/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/cassidy-r.-sugimoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fei Shu</title>
+      <link>/authors/fei-shu/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/fei-shu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Pringle</title>
+      <link>/authors/james-pringle/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/james-pringle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James Walker</title>
+      <link>/authors/james-walker/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/james-walker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jennifer Lin</title>
+      <link>/authors/jennifer-lin/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jennifer-lin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liz Allen</title>
+      <link>/authors/liz-allen/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/liz-allen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ludo Waltman</title>
+      <link>/authors/ludo-waltman/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ludo-waltman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Malgarini</title>
+      <link>/authors/marco-malgarini/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/marco-malgarini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marie McVeigh</title>
+      <link>/authors/marie-mcveigh/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/marie-mcveigh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martijn Roelandse</title>
+      <link>/authors/martijn-roelandse/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/martijn-roelandse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Hill</title>
+      <link>/authors/michael-hill/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-hill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michele Garfinkel</title>
+      <link>/authors/michele-garfinkel/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/michele-garfinkel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Wouters</title>
+      <link>/authors/paul-wouters/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/paul-wouters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renato H.L. Pedrosa</title>
+      <link>/authors/renato-h.l.-pedrosa/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/renato-h.l.-pedrosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarah de Rijcke</title>
+      <link>/authors/sarah-de-rijcke/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sarah-de-rijcke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Curry</title>
+      <link>/authors/stephen-curry/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/stephen-curry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tindaro Cicero</title>
+      <link>/authors/tindaro-cicero/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/tindaro-cicero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vincent Larivière</title>
+      <link>/authors/vincent-lariviere/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/vincent-lariviere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alfredo Yegros-Yegros</title>
+      <link>/authors/alfredo-yegros-yegros/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/alfredo-yegros-yegros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolas Robinson-Garcia</title>
+      <link>/authors/nicolas-robinson-garcia/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/nicolas-robinson-garcia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Costas</title>
+      <link>/authors/rodrigo-costas/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/rodrigo-costas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

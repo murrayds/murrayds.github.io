@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Dakota Murray</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Sep 2019 20:46:50 -0400</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Embedding</title>
+      <link>/tags/embedding/</link>
+      <pubDate>Mon, 16 Sep 2019 20:46:50 -0400</pubDate>
+      <guid>/tags/embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networks</title>
+      <link>/tags/networks/</link>
+      <pubDate>Mon, 16 Sep 2019 20:46:50 -0400</pubDate>
+      <guid>/tags/networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Journal Impact Factors</title>
+      <link>/tags/journal-impact-factors/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/journal-impact-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>/tags/workshop/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobility</title>
+      <link>/tags/mobility/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nations</title>
+      <link>/tags/nations/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/nations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nature</title>
+      <link>/tags/nature/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/nature/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

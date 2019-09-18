@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Embedding | Dakota Murray</title>
+    <link>/tags/embedding/</link>
+      <atom:link href="/tags/embedding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Embedding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Sep 2019 20:46:50 -0400</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Embedding</title>
+      <link>/tags/embedding/</link>
+    </image>
+    
+    <item>
+      <title>Embedding graphs with Laplacian Eigenmaps</title>
+      <link>/post/graph_laplacian_eigenmap/</link>
+      <pubDate>Mon, 16 Sep 2019 20:46:50 -0400</pubDate>
+      <guid>/post/graph_laplacian_eigenmap/</guid>
+      <description>&lt;p&gt;Graph laplacian eigenmaps (GLE) are one means, among many, of embedding graphs into a low-dimensional numeric space. Specifically, GLE is an approach based on Matrix Factorization that takes as input non-relational data and outputs node embeddings. The key insight of GLEs is that the graph property to be preserved can be interpreted as pairwise node similarities. Thus, a larger penalty is imposed if two nodes with large similarity are embedded far apart. Thus, the goal of this approach is to find an embedding that minimizes this penalty.&lt;/p&gt;
+
+&lt;p&gt;The gist of this approach is that it aims to first represent the graph as a Graph Laplacian Matrix, $L$. $L$ is a means of representing a graph in matrix form following the definition $L = D - W$, where $D$ is the &lt;em&gt;degree matrix&lt;/em&gt;, a diagonal matrix containing the degree of each node, and $W$ is the adjacency matrix of weights. Under this representation, all positive values correspond to degrees of the node, and all negative values to the weights of the edges. We then perform a decomposition on $L$ to find its eigenvalues. The eigenvectors corresponding to the smallest of the eigenvalues are used as the embedding.&lt;/p&gt;
+
+&lt;p&gt;The optimal embedding, $y^{\ast}$ can be derived from the following objective function,&lt;/p&gt;
+
+&lt;p&gt;$$y^{\ast} = \text{argmin}_{y} \sum_{i\neq j} (y_{i} - y_{j}^{2} W_{ij}) = \text{argmin}_{y} y^{T}Ly$$&lt;/p&gt;
+
+&lt;p&gt;Where $W_{ij}$ is the similarity matrix between every pair of nodes $v_{i}$ and $v_{j}$. $L$ is the graph laplacian matrix, $D$ is the diagonal matrix for which $D_{ii} = \sum_{i \neq j}W_{ij}$.&lt;/p&gt;
+
+&lt;p&gt;The goal of this objective function is to find the embedding, $y^{\ast}$ that minimizes the error compared to the Graph Laplacian Matrix, $L$. One benefit of representing a graph with $L$ rather than a simple adjacency matrix is that the diagonal will contain the degrees of the graph; the larger the degree of a node, the more that its row will be &amp;ldquo;weighted&amp;rdquo; when computing the objective function. The practical effect is that larger degree nodes will have a greater impact on the embedding than lower-degree nodes.&lt;/p&gt;
+
+&lt;p&gt;There are several expansions on this basic optimization, but in each of these variants, the optimal embedding $y^{\prime}$ are the eigenvectors of the laplacian matrix, $\lambda$, which can be calculated by solving the the eigenproblem $Wy = \lambda Dy$.&lt;/p&gt;
+
+&lt;p&gt;Arrange the eigenvalues from smallest to largest. The first eigenvalue should be close to zero, and its corresponding eigenvector is not typically used for embedding. Rather, use the remaining eigenvalues and their corresponding eigenvectors to construct the $d$-dimensional embedding. For example, a 3-dimensional embedding can be constructed using the eigenvectors corresponding to the 2nd, 3rd, and 4th smallest eigenvalues. A 2-dimensional embedding can be constructed using the eigenvectors of the 2nd and 3rd smallest eigenvalues.&lt;/p&gt;
+
+&lt;p&gt;Lets walk through this process in R.&lt;/p&gt;
+
+&lt;p&gt;Consider the Karate network, shown below, which is a popular network exemplifying community structure.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/post_images/graph_laplacian_eigenmaps/karate_graph.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Having loaded this data into R, we can construct the Graph Laplacian Matrix, $L$, from the adjacency matrix $W$ and the degree matrix, $D$.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;W &amp;lt;- as.matrix(as.matrix.network(karate))
+D &amp;lt;- diag(rowSums(W))
+L &amp;lt;- D - W
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Then, we can solve the eigenproblem $Wy = \lambda Dy$ and select the eigenvectors corresponding to the 2nd and 3rd smallest eigenvectors to produce an embedding.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;eig &amp;lt;- eigen(L, D)
+col_dim &amp;lt;- dim(eig$vectors)[1]
+vectors &amp;lt;- eig$vectors[,(col_dim - 1):(col_dim - 2)]
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The resulting embedding is shown below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;/post_images/graph_laplacian_eigenmaps/karate_embed.png&#34; alt=&#34;Example image&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We can see that much of the structure from the original graph also appears in the embedding. As with the network, the embedding demonstrates a clear division between the two communities. Additionally, we see all the nodes that are directly connected to the opposing community are clustered together. Meanwhile, nodes for Actor 5, 6, 7, 11, and 17 are clustered apart form the other clusters, reflecting their somewhat isolated position in the original graph. Similarly, Actor 12 only maintains one connection to Mr. H, and is thus set far apart from the other nodes in the embedding.&lt;/p&gt;
+
+&lt;p&gt;There are many uses for graph embeddings. They allow for fast computation of node distances and can serve as effective features for graph-based classification problems.&lt;/p&gt;
+
+&lt;p&gt;This content was largely drawn from the following resources,&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Cai, H., Zheng, V. W., &amp;amp; Chang, K. C.-C. (2017). A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications. ArXiv:1709.07604 [Cs]. Retrieved from &lt;a href=&#34;http://arxiv.org/abs/1709.07604&#34; target=&#34;_blank&#34;&gt;http://arxiv.org/abs/1709.07604&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Belkin, M., &amp;amp; Niyogi, P. (2001). Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering. Proceedings of the 14th International Conference on Neural Information Processing Systems: Natural and Synthetic, 585–591. Retrieved from &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2980539.2980616&#34; target=&#34;_blank&#34;&gt;http://dl.acm.org/citation.cfm?id=2980539.2980616&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

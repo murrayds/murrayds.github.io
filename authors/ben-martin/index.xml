@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Martin | Dakota Murray</title>
+    <link>/authors/ben-martin/</link>
+      <atom:link href="/authors/ben-martin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ben Martin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Ben Martin</title>
+      <link>/authors/ben-martin/</link>
+    </image>
+    
+    <item>
+      <title>Rethinking journal impact factors</title>
+      <link>/publication/sugimoto_etal_2019/</link>
+      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sugimoto_etal_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
