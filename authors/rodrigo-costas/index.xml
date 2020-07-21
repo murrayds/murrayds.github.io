@@ -5,7 +5,7 @@
     <link>/authors/rodrigo-costas/</link>
       <atom:link href="/authors/rodrigo-costas/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Costas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 10:29:58 -0400</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Rodrigo Costas</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>The many faces of mobility: Using bibliometric data to measure the movement of scientists</title>
-      <link>/publication/robinson-garcia_2019/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/robinson-garcia_2019/</guid>
+      <title>Embedding co-affiliation trajectories captures structure of global scientific mobility (Poster)</title>
+      <link>/talk/2020-ic2s2-mobility/</link>
+      <pubDate>Tue, 21 Jul 2020 10:29:58 -0400</pubDate>
+      <guid>/talk/2020-ic2s2-mobility/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scientists have most impact when they’re free to move</title>
-      <link>/publication/sugimoto-scientists_2017/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/sugimoto-scientists_2017/</guid>
+      <title>The many faces of mobility: Using bibliometric data to measure the movement of scientists</title>
+      <link>/publication/robinson-garcia-many-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/robinson-garcia-many-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific mobility indicators in practice: International mobility profiles at the country level</title>
+      <link>/publication/robinson-garcia-scientific-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/robinson-garcia-scientific-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Global Comparison of Scientific Mobility and Collaboration According to National Scientific Capacities</title>
+      <link>/publication/chinchilla-rodriguez-global-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/chinchilla-rodriguez-global-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientists have most impact when they&#39;re free to move</title>
+      <link>/publication/sugimoto-scientists-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sugimoto-scientists-2017/</guid>
       <description></description>
     </item>
     

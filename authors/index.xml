@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 11:18:19 -0400</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2020 11:18:19 -0400</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Computational Social Scientist studying the social dimensions of the global scientific ecosystem. In particular, I&amp;rsquo;m interested in how the movements of people—whether across the world or between disciplines—shapes science. Who gets to move? Where do they move to? How does entering as a newcomer to a new place or discipline impact you, and those around you? These are the questions I hope to answer. I use network and representation learning techniques to make sense of massive bibliographic data and academic social networks.&lt;/p&gt;
 
@@ -24,49 +24,177 @@
     </item>
     
     <item>
-      <title>Cassidy Sugimoto</title>
-      <link>/authors/cassidy-sugimoto/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/cassidy-sugimoto/</guid>
+      <title>Cassidy R. Sugimoto</title>
+      <link>/authors/cassidy-r.-sugimoto/</link>
+      <pubDate>Tue, 21 Jul 2020 11:18:19 -0400</pubDate>
+      <guid>/authors/cassidy-r.-sugimoto/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Clara Boothby</title>
-      <link>/authors/clara-boothby/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/clara-boothby/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Huimeng Zhou</title>
-      <link>/authors/huimeng-zhou/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/huimeng-zhou/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicolas Bérubé</title>
-      <link>/authors/nicolas-berube/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/nicolas-berube/</guid>
+      <title>Guillaume Cabanac</title>
+      <link>/authors/guillaume-cabanac/</link>
+      <pubDate>Tue, 21 Jul 2020 11:18:19 -0400</pubDate>
+      <guid>/authors/guillaume-cabanac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vincent Larivière</title>
       <link>/authors/vincent-lariviere/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2020 11:18:19 -0400</pubDate>
       <guid>/authors/vincent-lariviere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jisung Yoon</title>
+      <link>/authors/jisung-yoon/</link>
+      <pubDate>Tue, 21 Jul 2020 10:29:58 -0400</pubDate>
+      <guid>/authors/jisung-yoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rodrigo Costas</title>
+      <link>/authors/rodrigo-costas/</link>
+      <pubDate>Tue, 21 Jul 2020 10:29:58 -0400</pubDate>
+      <guid>/authors/rodrigo-costas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Staša Milojević</title>
+      <link>/authors/stasa-milojevic/</link>
+      <pubDate>Tue, 21 Jul 2020 10:29:58 -0400</pubDate>
+      <guid>/authors/stasa-milojevic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Woo-Sung Jung</title>
+      <link>/authors/woo-sung-jung/</link>
+      <pubDate>Tue, 21 Jul 2020 10:29:58 -0400</pubDate>
+      <guid>/authors/woo-sung-jung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong-Yeol Ahn</title>
+      <link>/authors/yong-yeol-ahn/</link>
+      <pubDate>Tue, 21 Jul 2020 10:29:58 -0400</pubDate>
+      <guid>/authors/yong-yeol-ahn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lili Miao</title>
+      <link>/authors/lili-miao/</link>
+      <pubDate>Tue, 21 Jul 2020 10:19:04 -0400</pubDate>
+      <guid>/authors/lili-miao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew Tsou</title>
+      <link>/authors/andrew-tsou/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/andrew-tsou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anna Polovick Waggy</title>
+      <link>/authors/anna-polovick-waggy/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/anna-polovick-waggy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clara Boothby</title>
+      <link>/authors/clara-boothby/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/clara-boothby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dakota Murray</title>
+      <link>/authors/dakota-murray/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/dakota-murray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily Coco</title>
+      <link>/authors/emily-coco/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/emily-coco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabian Dablander</title>
+      <link>/authors/fabian-dablander/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/fabian-dablander/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jacqueline Brown</title>
+      <link>/authors/jacqueline-brown/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/jacqueline-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyle Furlong</title>
+      <link>/authors/kyle-furlong/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/kyle-furlong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrew M. Collings</title>
+      <link>/authors/andrew-m.-collings/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/andrew-m.-collings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jennifer Raymond</title>
+      <link>/authors/jennifer-raymond/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jennifer-raymond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kyle Siler</title>
+      <link>/authors/kyle-siler/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/kyle-siler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Mun Chan</title>
+      <link>/authors/wei-mun-chan/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/wei-mun-chan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alexis-Michel Mugabushaka</title>
       <link>/authors/alexis-michel-mugabushaka/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/alexis-michel-mugabushaka/</guid>
       <description></description>
     </item>
@@ -74,7 +202,7 @@
     <item>
       <title>Andrew Plume</title>
       <link>/authors/andrew-plume/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/andrew-plume/</guid>
       <description></description>
     </item>
@@ -82,7 +210,7 @@
     <item>
       <title>Annette Flanagin</title>
       <link>/authors/annette-flanagin/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/annette-flanagin/</guid>
       <description></description>
     </item>
@@ -90,7 +218,7 @@
     <item>
       <title>Ben Martin</title>
       <link>/authors/ben-martin/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/ben-martin/</guid>
       <description></description>
     </item>
@@ -98,7 +226,7 @@
     <item>
       <title>Bernd Pulverer</title>
       <link>/authors/bernd-pulverer/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/bernd-pulverer/</guid>
       <description></description>
     </item>
@@ -106,23 +234,23 @@
     <item>
       <title>Bosman Jeroen</title>
       <link>/authors/bosman-jeroen/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/bosman-jeroen/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cassidy R. Sugimoto</title>
-      <link>/authors/cassidy-r.-sugimoto/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/cassidy-r.-sugimoto/</guid>
+      <title>Cassidy Sugimoto</title>
+      <link>/authors/cassidy-sugimoto/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/cassidy-sugimoto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fei Shu</title>
       <link>/authors/fei-shu/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/fei-shu/</guid>
       <description></description>
     </item>
@@ -130,7 +258,7 @@
     <item>
       <title>James Pringle</title>
       <link>/authors/james-pringle/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/james-pringle/</guid>
       <description></description>
     </item>
@@ -138,7 +266,7 @@
     <item>
       <title>James Walker</title>
       <link>/authors/james-walker/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/james-walker/</guid>
       <description></description>
     </item>
@@ -146,7 +274,7 @@
     <item>
       <title>Jennifer Lin</title>
       <link>/authors/jennifer-lin/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/jennifer-lin/</guid>
       <description></description>
     </item>
@@ -154,7 +282,7 @@
     <item>
       <title>Liz Allen</title>
       <link>/authors/liz-allen/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/liz-allen/</guid>
       <description></description>
     </item>
@@ -162,7 +290,7 @@
     <item>
       <title>Ludo Waltman</title>
       <link>/authors/ludo-waltman/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/ludo-waltman/</guid>
       <description></description>
     </item>
@@ -170,7 +298,7 @@
     <item>
       <title>Marco Malgarini</title>
       <link>/authors/marco-malgarini/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/marco-malgarini/</guid>
       <description></description>
     </item>
@@ -178,7 +306,7 @@
     <item>
       <title>Marie McVeigh</title>
       <link>/authors/marie-mcveigh/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/marie-mcveigh/</guid>
       <description></description>
     </item>
@@ -186,7 +314,7 @@
     <item>
       <title>Martijn Roelandse</title>
       <link>/authors/martijn-roelandse/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/martijn-roelandse/</guid>
       <description></description>
     </item>
@@ -194,7 +322,7 @@
     <item>
       <title>Michael Hill</title>
       <link>/authors/michael-hill/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/michael-hill/</guid>
       <description></description>
     </item>
@@ -202,7 +330,7 @@
     <item>
       <title>Michele Garfinkel</title>
       <link>/authors/michele-garfinkel/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/michele-garfinkel/</guid>
       <description></description>
     </item>
@@ -210,23 +338,23 @@
     <item>
       <title>Paul Wouters</title>
       <link>/authors/paul-wouters/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/paul-wouters/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Renato H.L. Pedrosa</title>
-      <link>/authors/renato-h.l.-pedrosa/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/renato-h.l.-pedrosa/</guid>
+      <title>Renato H. L. Pedrosa</title>
+      <link>/authors/renato-h.-l.-pedrosa/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/renato-h.-l.-pedrosa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sarah de Rijcke</title>
       <link>/authors/sarah-de-rijcke/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/sarah-de-rijcke/</guid>
       <description></description>
     </item>
@@ -234,7 +362,7 @@
     <item>
       <title>Stephen Curry</title>
       <link>/authors/stephen-curry/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/stephen-curry/</guid>
       <description></description>
     </item>
@@ -242,7 +370,7 @@
     <item>
       <title>Tindaro Cicero</title>
       <link>/authors/tindaro-cicero/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/tindaro-cicero/</guid>
       <description></description>
     </item>
@@ -256,7 +384,7 @@
     </item>
     
     <item>
-      <title>Nicolas Robinson-Garcia</title>
+      <title>Nicolás Robinson-García</title>
       <link>/authors/nicolas-robinson-garcia/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/nicolas-robinson-garcia/</guid>
@@ -264,10 +392,74 @@
     </item>
     
     <item>
-      <title>Rodrigo Costas</title>
-      <link>/authors/rodrigo-costas/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/rodrigo-costas/</guid>
+      <title>Dakota S. Murray</title>
+      <link>/authors/dakota-s.-murray/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/dakota-s.-murray/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xingkun Liang</title>
+      <link>/authors/xingkun-liang/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/xingkun-liang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yi Bu</title>
+      <link>/authors/yi-bu/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/yi-bu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ying Ding</title>
+      <link>/authors/ying-ding/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/ying-ding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yiming Zhao</title>
+      <link>/authors/yiming-zhao/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/yiming-zhao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yong Huang</title>
+      <link>/authors/yong-huang/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/yong-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zaida Chinchilla-Rodríguez</title>
+      <link>/authors/zaida-chinchilla-rodriguez/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/zaida-chinchilla-rodriguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javon Goard</title>
+      <link>/authors/javon-goard/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/javon-goard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanchari Das</title>
+      <link>/authors/sanchari-das/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/sanchari-das/</guid>
       <description></description>
     </item>
     

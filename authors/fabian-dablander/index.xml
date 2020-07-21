@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabian Dablander | Dakota Murray</title>
+    <link>/authors/fabian-dablander/</link>
+      <atom:link href="/authors/fabian-dablander/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fabian Dablander</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Fabian Dablander</title>
+      <link>/authors/fabian-dablander/</link>
+    </image>
+    
+    <item>
+      <title>A Breeding Pool of Ideas: Analyzing Interdisciplinary Collaborations at the Complex Systems Summer School</title>
+      <link>/publication/brown-breeding-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brown-breeding-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

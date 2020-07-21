@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dakota S. Murray | Dakota Murray</title>
+    <link>/authors/dakota-s.-murray/</link>
+      <atom:link href="/authors/dakota-s.-murray/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dakota S. Murray</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Dakota S. Murray</title>
+      <link>/authors/dakota-s.-murray/</link>
+    </image>
+    
+    <item>
+      <title>Understanding persistent scientific collaboration</title>
+      <link>/publication/bu-understanding-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bu-understanding-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the stability of scientific collaboration</title>
+      <link>/publication/bu-measuring-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bu-measuring-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientists have most impact when they&#39;re free to move</title>
+      <link>/publication/sugimoto-scientists-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sugimoto-scientists-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

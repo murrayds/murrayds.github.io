@@ -5,7 +5,7 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Dakota Murray</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 11:18:19 -0400</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Dakota Murray</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>Exploring the personal and professional factors associated with student evaluations of tenure-track faculty</title>
-      <link>/publication/murray-aarmp_2020/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/murray-aarmp_2020/</guid>
+      <title>Honoring our dead: text mining a century of academic obituaries in The Lancet (Poster)</title>
+      <link>/talk/2020-ic2s2-obituary/</link>
+      <pubDate>Tue, 21 Jul 2020 11:18:19 -0400</pubDate>
+      <guid>/talk/2020-ic2s2-obituary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedding co-affiliation trajectories captures structure of global scientific mobility (Poster)</title>
+      <link>/talk/2020-ic2s2-mobility/</link>
+      <pubDate>Tue, 21 Jul 2020 10:29:58 -0400</pubDate>
+      <guid>/talk/2020-ic2s2-mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Scientific Development of Nations (Poster)</title>
+      <link>/talk/2020-ic2s2-nsp/</link>
+      <pubDate>Tue, 21 Jul 2020 10:19:04 -0400</pubDate>
+      <guid>/talk/2020-ic2s2-nsp/</guid>
       <description></description>
     </item>
     
@@ -77,30 +93,6 @@ vectors &amp;lt;- eig$vectors[,(col_dim - 1):(col_dim - 2)]
 &lt;p&gt;Belkin, M., &amp;amp; Niyogi, P. (2001). Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering. Proceedings of the 14th International Conference on Neural Information Processing Systems: Natural and Synthetic, 585–591. Retrieved from &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=2980539.2980616&#34; target=&#34;_blank&#34;&gt;http://dl.acm.org/citation.cfm?id=2980539.2980616&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Rethinking journal impact factors</title>
-      <link>/publication/sugimoto_etal_2019/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/sugimoto_etal_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The many faces of mobility: Using bibliometric data to measure the movement of scientists</title>
-      <link>/publication/robinson-garcia_2019/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/robinson-garcia_2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scientists have most impact when they’re free to move</title>
-      <link>/publication/sugimoto-scientists_2017/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/sugimoto-scientists_2017/</guid>
-      <description></description>
     </item>
     
   </channel>

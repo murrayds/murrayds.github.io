@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Publications</title>
@@ -13,34 +13,90 @@
     </image>
     
     <item>
-      <title>Exploring the personal and professional factors associated with student evaluations of tenure-track faculty</title>
-      <link>/publication/murray-aarmp_2020/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/murray-aarmp_2020/</guid>
+      <title>Credibility of Scientific Information on Social Media: Variation by Platform and Presence of Formal Credibility Cues</title>
+      <link>/publication/boothby-credibility-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/boothby-credibility-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Rethinking journal impact factors</title>
-      <link>/publication/sugimoto_etal_2019/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/sugimoto_etal_2019/</guid>
+      <title>A Breeding Pool of Ideas: Analyzing Interdisciplinary Collaborations at the Complex Systems Summer School</title>
+      <link>/publication/brown-breeding-2020/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brown-breeding-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author-Reviewer Homophily in Peer Review</title>
+      <link>/publication/murray-author-reviewer-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/murray-author-reviewer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking Impact Factors: New Pathways in Journal Metrics</title>
+      <link>/publication/sugimoto-rethinking-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sugimoto-rethinking-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The many faces of mobility: Using bibliometric data to measure the movement of scientists</title>
-      <link>/publication/robinson-garcia_2019/</link>
+      <link>/publication/robinson-garcia-many-2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/robinson-garcia_2019/</guid>
+      <guid>/publication/robinson-garcia-many-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scientists have most impact when they’re free to move</title>
-      <link>/publication/sugimoto-scientists_2017/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/sugimoto-scientists_2017/</guid>
+      <title>Scientific mobility indicators in practice: International mobility profiles at the country level</title>
+      <link>/publication/robinson-garcia-scientific-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/robinson-garcia-scientific-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding persistent scientific collaboration</title>
+      <link>/publication/bu-understanding-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bu-understanding-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the stability of scientific collaboration</title>
+      <link>/publication/bu-measuring-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bu-measuring-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Global Comparison of Scientific Mobility and Collaboration According to National Scientific Capacities</title>
+      <link>/publication/chinchilla-rodriguez-global-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/chinchilla-rodriguez-global-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Celebrities Feed Tweeples with Personal and Promotional Tweets: Celebrity Twitter Use and Audience Engagement</title>
+      <link>/publication/das-how-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/das-how-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientists have most impact when they&#39;re free to move</title>
+      <link>/publication/sugimoto-scientists-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sugimoto-scientists-2017/</guid>
       <description></description>
     </item>
     

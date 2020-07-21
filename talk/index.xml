@@ -5,7 +5,7 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 10:29:58 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 11:18:19 -0400</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Ic2s2 Mobility</title>
-      <link>/talk/ic2s2-mobility/</link>
+      <title>Honoring our dead: text mining a century of academic obituaries in The Lancet (Poster)</title>
+      <link>/talk/2020-ic2s2-obituary/</link>
+      <pubDate>Tue, 21 Jul 2020 11:18:19 -0400</pubDate>
+      <guid>/talk/2020-ic2s2-obituary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embedding co-affiliation trajectories captures structure of global scientific mobility (Poster)</title>
+      <link>/talk/2020-ic2s2-mobility/</link>
       <pubDate>Tue, 21 Jul 2020 10:29:58 -0400</pubDate>
-      <guid>/talk/ic2s2-mobility/</guid>
+      <guid>/talk/2020-ic2s2-mobility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Scientific Development of Nations (Poster)</title>
-      <link>/talk/ic2s2-nsp/</link>
+      <link>/talk/2020-ic2s2-nsp/</link>
       <pubDate>Tue, 21 Jul 2020 10:19:04 -0400</pubDate>
-      <guid>/talk/ic2s2-nsp/</guid>
+      <guid>/talk/2020-ic2s2-nsp/</guid>
       <description></description>
     </item>
     

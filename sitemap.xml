@@ -3,103 +3,163 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-07-21T10:29:58-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/ic2s2-mobility/</loc>
-    <lastmod>2020-07-21T10:29:58-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-07-21T10:29:58-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/ic2s2-nsp/</loc>
-    <lastmod>2020-07-21T10:19:04-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/admin/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T11:18:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <loc>/tags/2020ic2s2/</loc>
+    <lastmod>2020-07-21T11:18:19-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T11:18:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/bias/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <loc>/authors/cassidy-r.-sugimoto/</loc>
+    <lastmod>2020-07-21T11:18:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/careers/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-07-21T11:18:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/cassidy-sugimoto/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <loc>/authors/guillaume-cabanac/</loc>
+    <lastmod>2020-07-21T11:18:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/clara-boothby/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <loc>/talk/2020-ic2s2-obituary/</loc>
+    <lastmod>2020-07-21T11:18:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/murray-aarmp_2020/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <loc>/tags/poster/</loc>
+    <lastmod>2020-07-21T11:18:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/huimeng-zhou/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nicolas-berube/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/plos/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <loc>/talk/</loc>
+    <lastmod>2020-07-21T11:18:19-04:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/teachers/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T11:18:19-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/vincent-lariviere/</loc>
-    <lastmod>2020-06-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-21T11:18:19-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2020-ic2s2-mobility/</loc>
+    <lastmod>2020-07-21T10:29:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jisung-yoon/</loc>
+    <lastmod>2020-07-21T10:29:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/rodrigo-costas/</loc>
+    <lastmod>2020-07-21T10:29:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/stasa-milojevic/</loc>
+    <lastmod>2020-07-21T10:29:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/woo-sung-jung/</loc>
+    <lastmod>2020-07-21T10:29:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yong-yeol-ahn/</loc>
+    <lastmod>2020-07-21T10:29:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lili-miao/</loc>
+    <lastmod>2020-07-21T10:19:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/2020-ic2s2-nsp/</loc>
+    <lastmod>2020-07-21T10:19:04-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/4/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-tsou/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/anna-polovick-waggy/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/clara-boothby/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/boothby-credibility-2020/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dakota-murray/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/brown-breeding-2020/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/emily-coco/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/fabian-dablander/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jacqueline-brown/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kyle-furlong/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -123,133 +183,153 @@
   </url>
   
   <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/andrew-m.-collings/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/murray-author-reviewer-2019/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/jennifer-raymond/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kyle-siler/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/wei-mun-chan/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/alexis-michel-mugabushaka/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/andrew-plume/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/annette-flanagin/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/ben-martin/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/bernd-pulverer/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/bosman-jeroen/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/cassidy-r.-sugimoto/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <loc>/authors/cassidy-sugimoto/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/fei-shu/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/james-pringle/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/james-walker/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/jennifer-lin/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/journal-impact-factors/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/liz-allen/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/ludo-waltman/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/marco-malgarini/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/marie-mcveigh/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/martijn-roelandse/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/michael-hill/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/michele-garfinkel/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/paul-wouters/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/renato-h.l.-pedrosa/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <loc>/authors/renato-h.-l.-pedrosa/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/sugimoto_etal_2019/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <loc>/publication/sugimoto-rethinking-2019/</loc>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/sarah-de-rijcke/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/stephen-curry/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/tindaro-cicero/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/workshop/</loc>
-    <lastmod>2019-05-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -258,17 +338,22 @@
   </url>
   
   <url>
-    <loc>/tags/methods/</loc>
+    <loc>/tags/bibliometrics/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/mobility/</loc>
+    <loc>/tags/brain-circulation/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/nations/</loc>
+    <loc>/tags/brain-drain/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/international-mobility/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -278,23 +363,208 @@
   </url>
   
   <url>
-    <loc>/authors/rodrigo-costas/</loc>
+    <loc>/tags/science-policy/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/robinson-garcia_2019/</loc>
+    <loc>/tags/scientific-mobility/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/nature/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <loc>/publication/robinson-garcia-many-2019/</loc>
+    <lastmod>2019-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/sugimoto-scientists_2017/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <loc>/tags/computer-science-digital-libraries/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/robinson-garcia-scientific-2018/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dakota-s.-murray/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bu-understanding-2018/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/xingkun-liang/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yi-bu/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ying-ding/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/62p25/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/bu-measuring-2018/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/o35/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/persistence/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scientific-collaboration/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scientometrics/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/stability/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yiming-zhao/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/yong-huang/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/chinchilla-rodriguez-global-2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/international-collaboration/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/mobility/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scholarly-communication/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/scientific-capacity/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zaida-chinchilla-rodriguez/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/audience-engagement/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/celebrities/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/content-analysis/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/emigration-and-immigration/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/freedom/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/das-how-2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/international-cooperation/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/javon-goard/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/research-personnel/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sanchari-das/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/sugimoto-scientists-2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/social-media/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/twitter/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/united-kingdom/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/united-states/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scientific capacity | Dakota Murray</title>
+    <link>/tags/scientific-capacity/</link>
+      <atom:link href="/tags/scientific-capacity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scientific capacity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Scientific capacity</title>
+      <link>/tags/scientific-capacity/</link>
+    </image>
+    
+    <item>
+      <title>A Global Comparison of Scientific Mobility and Collaboration According to National Scientific Capacities</title>
+      <link>/publication/chinchilla-rodriguez-global-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/chinchilla-rodriguez-global-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

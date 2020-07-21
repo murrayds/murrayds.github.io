@@ -5,7 +5,7 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 11:18:19 -0400</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,34 +13,18 @@
     </image>
     
     <item>
-      <title>Bias</title>
-      <link>/tags/bias/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/bias/</guid>
+      <title>2020ic2s2</title>
+      <link>/tags/2020ic2s2/</link>
+      <pubDate>Tue, 21 Jul 2020 11:18:19 -0400</pubDate>
+      <guid>/tags/2020ic2s2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Careers</title>
-      <link>/tags/careers/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/careers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PLoS</title>
-      <link>/tags/plos/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/plos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teachers</title>
-      <link>/tags/teachers/</link>
-      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/teachers/</guid>
+      <title>poster</title>
+      <link>/tags/poster/</link>
+      <pubDate>Tue, 21 Jul 2020 11:18:19 -0400</pubDate>
+      <guid>/tags/poster/</guid>
       <description></description>
     </item>
     
@@ -61,50 +45,226 @@
     </item>
     
     <item>
-      <title>Journal Impact Factors</title>
-      <link>/tags/journal-impact-factors/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/journal-impact-factors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Workshop</title>
-      <link>/tags/workshop/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/workshop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Methods</title>
-      <link>/tags/methods/</link>
+      <title>Bibliometrics</title>
+      <link>/tags/bibliometrics/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/methods/</guid>
+      <guid>/tags/bibliometrics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mobility</title>
+      <title>Brain circulation</title>
+      <link>/tags/brain-circulation/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/brain-circulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain drain</title>
+      <link>/tags/brain-drain/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/brain-drain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International mobility</title>
+      <link>/tags/international-mobility/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/international-mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Science Policy</title>
+      <link>/tags/science-policy/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/science-policy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific mobility</title>
+      <link>/tags/scientific-mobility/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/scientific-mobility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Science - Digital Libraries</title>
+      <link>/tags/computer-science-digital-libraries/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/computer-science-digital-libraries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>62P25</title>
+      <link>/tags/62p25/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/62p25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O35</title>
+      <link>/tags/o35/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/o35/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Persistence</title>
+      <link>/tags/persistence/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/persistence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientific collaboration</title>
+      <link>/tags/scientific-collaboration/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/scientific-collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientometrics</title>
+      <link>/tags/scientometrics/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/scientometrics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stability</title>
+      <link>/tags/stability/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/stability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>international collaboration</title>
+      <link>/tags/international-collaboration/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/international-collaboration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobility</title>
       <link>/tags/mobility/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>/tags/mobility/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nations</title>
-      <link>/tags/nations/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/nations/</guid>
+      <title>scholarly communication</title>
+      <link>/tags/scholarly-communication/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/scholarly-communication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nature</title>
-      <link>/tags/nature/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/tags/nature/</guid>
+      <title>Scientific capacity</title>
+      <link>/tags/scientific-capacity/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/scientific-capacity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>audience engagement</title>
+      <link>/tags/audience-engagement/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/audience-engagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>celebrities</title>
+      <link>/tags/celebrities/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/celebrities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>content analysis</title>
+      <link>/tags/content-analysis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/content-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emigration and Immigration</title>
+      <link>/tags/emigration-and-immigration/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/emigration-and-immigration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freedom</title>
+      <link>/tags/freedom/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/freedom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>International Cooperation</title>
+      <link>/tags/international-cooperation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/international-cooperation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Personnel</title>
+      <link>/tags/research-personnel/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/research-personnel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social media</title>
+      <link>/tags/social-media/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>/tags/twitter/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>United Kingdom</title>
+      <link>/tags/united-kingdom/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/united-kingdom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>United States</title>
+      <link>/tags/united-states/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/united-states/</guid>
       <description></description>
     </item>
     
