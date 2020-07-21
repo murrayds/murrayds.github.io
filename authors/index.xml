@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Sep 2019 20:46:50 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,12 +15,52 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Mon, 16 Sep 2019 20:46:50 -0400</pubDate>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a computational social scientist studying the social and epistemic dynamics of the global scientific ecosystem. To do so, I leverage neural-network based representation learning to construct simplified embeddings of bibliometric and social networks.&lt;/p&gt;
 
 &lt;p&gt;I am currently pursuing a PhD at Indiana University Bloomington in the department of Informatics, Computing, and Engineering. I have been fortunate enough to be advised by Dr. Cassidy Sugimoto and am currently working as a research assistant on the Minerva-funded &lt;em&gt;Sciecne Genome&lt;/em&gt; project under the supervision of Ahn Yong-Yeol. Apart from work, I enjoy running, cooking, traveling, and reading science fiction.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Cassidy Sugimoto</title>
+      <link>/authors/cassidy-sugimoto/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/cassidy-sugimoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clara Boothby</title>
+      <link>/authors/clara-boothby/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/clara-boothby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huimeng Zhou</title>
+      <link>/authors/huimeng-zhou/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/huimeng-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nicolas Bérubé</title>
+      <link>/authors/nicolas-berube/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/nicolas-berube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vincent Larivière</title>
+      <link>/authors/vincent-lariviere/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/vincent-lariviere/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -208,17 +248,9 @@
     </item>
     
     <item>
-      <title>Vincent Larivière</title>
-      <link>/authors/vincent-lariviere/</link>
-      <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/vincent-lariviere/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Alfredo Yegros-Yegros</title>
       <link>/authors/alfredo-yegros-yegros/</link>
-      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/alfredo-yegros-yegros/</guid>
       <description></description>
     </item>
@@ -226,7 +258,7 @@
     <item>
       <title>Nicolas Robinson-Garcia</title>
       <link>/authors/nicolas-robinson-garcia/</link>
-      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/nicolas-robinson-garcia/</guid>
       <description></description>
     </item>
@@ -234,7 +266,7 @@
     <item>
       <title>Rodrigo Costas</title>
       <link>/authors/rodrigo-costas/</link>
-      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/rodrigo-costas/</guid>
       <description></description>
     </item>

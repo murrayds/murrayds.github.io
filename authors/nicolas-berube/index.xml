@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolas Bérubé | Dakota Murray</title>
+    <link>/authors/nicolas-berube/</link>
+      <atom:link href="/authors/nicolas-berube/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicolas Bérubé</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Nicolas Bérubé</title>
+      <link>/authors/nicolas-berube/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the personal and professional factors associated with student evaluations of tenure-track faculty</title>
+      <link>/publication/murray-aarmp_2020/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/murray-aarmp_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

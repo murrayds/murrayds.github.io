@@ -5,12 +5,20 @@
     <link>/publication_types/2/</link>
       <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>2</title>
       <link>/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Exploring the personal and professional factors associated with student evaluations of tenure-track faculty</title>
+      <link>/publication/murray-aarmp_2020/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/murray-aarmp_2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Rethinking journal impact factors</title>
@@ -21,10 +29,18 @@
     </item>
     
     <item>
+      <title>The many faces of mobility: Using bibliometric data to measure the movement of scientists</title>
+      <link>/publication/robinson-garcia_2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/robinson-garcia_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scientists have most impact when they’re free to move</title>
-      <link>/publication/robinson-garcia_2017/</link>
-      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/robinson-garcia_2017/</guid>
+      <link>/publication/sugimoto-scientists_2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sugimoto-scientists_2017/</guid>
       <description></description>
     </item>
     
