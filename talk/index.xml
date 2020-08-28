@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 11:18:19 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2020 20:46:24 -0400</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>A scientometric analysis of disagreement in science</title>
+      <link>/talk/2020-disagreement/</link>
+      <pubDate>Fri, 28 Aug 2020 20:46:24 -0400</pubDate>
+      <guid>/talk/2020-disagreement/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Honoring our dead: text mining a century of academic obituaries in The Lancet (Poster)</title>

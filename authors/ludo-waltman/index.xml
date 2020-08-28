@@ -5,12 +5,20 @@
     <link>/authors/ludo-waltman/</link>
       <atom:link href="/authors/ludo-waltman/index.xml" rel="self" type="application/rss+xml" />
     <description>Ludo Waltman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2020 20:46:24 -0400</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Ludo Waltman</title>
       <link>/authors/ludo-waltman/</link>
     </image>
+    
+    <item>
+      <title>A scientometric analysis of disagreement in science</title>
+      <link>/talk/2020-disagreement/</link>
+      <pubDate>Fri, 28 Aug 2020 20:46:24 -0400</pubDate>
+      <guid>/talk/2020-disagreement/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Rethinking Impact Factors: New Pathways in Journal Metrics</title>

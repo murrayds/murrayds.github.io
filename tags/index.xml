@@ -5,12 +5,36 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 11:18:19 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2020 20:46:24 -0400</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>disagreement</title>
+      <link>/tags/disagreement/</link>
+      <pubDate>Fri, 28 Aug 2020 20:46:24 -0400</pubDate>
+      <guid>/tags/disagreement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FullText</title>
+      <link>/tags/fulltext/</link>
+      <pubDate>Fri, 28 Aug 2020 20:46:24 -0400</pubDate>
+      <guid>/tags/fulltext/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webinar</title>
+      <link>/tags/webinar/</link>
+      <pubDate>Fri, 28 Aug 2020 20:46:24 -0400</pubDate>
+      <guid>/tags/webinar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2020ic2s2</title>

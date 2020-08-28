@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 11:18:19 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2020 20:46:24 -0400</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 21 Jul 2020 11:18:19 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2020 20:46:24 -0400</pubDate>
       <guid>/authors/admin/</guid>
       <description>&lt;p&gt;I study the social dimensions of the global scientific ecosystem. In particular, I&amp;rsquo;m interested in how the movements of people—whether across the world or between disciplines—shapes science. Who gets to move? Where do they move to? How does moving impact you, and those around you? I use network and representation learning techniques to make sense of massive bibliographic data and academic social networks.&lt;/p&gt;
 
@@ -26,8 +26,48 @@
     <item>
       <title>Cassidy R. Sugimoto</title>
       <link>/authors/cassidy-r.-sugimoto/</link>
-      <pubDate>Tue, 21 Jul 2020 11:18:19 -0400</pubDate>
+      <pubDate>Fri, 28 Aug 2020 20:46:24 -0400</pubDate>
       <guid>/authors/cassidy-r.-sugimoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Boyack</title>
+      <link>/authors/kevin-boyack/</link>
+      <pubDate>Fri, 28 Aug 2020 20:46:24 -0400</pubDate>
+      <guid>/authors/kevin-boyack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ludo Waltman</title>
+      <link>/authors/ludo-waltman/</link>
+      <pubDate>Fri, 28 Aug 2020 20:46:24 -0400</pubDate>
+      <guid>/authors/ludo-waltman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nees Jan van Eck</title>
+      <link>/authors/nees-jan-van-eck/</link>
+      <pubDate>Fri, 28 Aug 2020 20:46:24 -0400</pubDate>
+      <guid>/authors/nees-jan-van-eck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vincent Larivière</title>
+      <link>/authors/vincent-lariviere/</link>
+      <pubDate>Fri, 28 Aug 2020 20:46:24 -0400</pubDate>
+      <guid>/authors/vincent-lariviere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wout Lamers</title>
+      <link>/authors/wout-lamers/</link>
+      <pubDate>Fri, 28 Aug 2020 20:46:24 -0400</pubDate>
+      <guid>/authors/wout-lamers/</guid>
       <description></description>
     </item>
     
@@ -36,14 +76,6 @@
       <link>/authors/guillaume-cabanac/</link>
       <pubDate>Tue, 21 Jul 2020 11:18:19 -0400</pubDate>
       <guid>/authors/guillaume-cabanac/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vincent Larivière</title>
-      <link>/authors/vincent-lariviere/</link>
-      <pubDate>Tue, 21 Jul 2020 11:18:19 -0400</pubDate>
-      <guid>/authors/vincent-lariviere/</guid>
       <description></description>
     </item>
     
@@ -284,14 +316,6 @@
       <link>/authors/liz-allen/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/liz-allen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ludo Waltman</title>
-      <link>/authors/ludo-waltman/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/ludo-waltman/</guid>
       <description></description>
     </item>
     
