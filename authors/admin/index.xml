@@ -5,12 +5,20 @@
     <link>/authors/admin/</link>
       <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Dakota Murray</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2020 20:46:24 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Dec 2020 17:31:32 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Dakota Murray</title>
       <link>/authors/admin/</link>
     </image>
+    
+    <item>
+      <title>2020 Northeastern</title>
+      <link>/talk/2020-northeastern/</link>
+      <pubDate>Tue, 15 Dec 2020 17:31:32 -0500</pubDate>
+      <guid>/talk/2020-northeastern/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A scientometric analysis of disagreement in science</title>

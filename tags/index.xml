@@ -5,12 +5,20 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2020 20:46:24 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Dec 2020 17:31:32 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Job</title>
+      <link>/tags/job/</link>
+      <pubDate>Tue, 15 Dec 2020 17:31:32 -0500</pubDate>
+      <guid>/tags/job/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>disagreement</title>
