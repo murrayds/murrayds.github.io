@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/talk/2021-northwestern/</loc>
+    <lastmod>2021-01-08T11:47:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-01-08T11:47:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2021-01-08T11:47:51-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2020-12-15T17:31:32-05:00</lastmod>
   </url>
@@ -18,17 +33,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-12-15T17:31:32-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/job/</loc>
-    <lastmod>2020-12-15T17:31:32-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
     <lastmod>2020-12-15T17:31:32-05:00</lastmod>
   </url>
   

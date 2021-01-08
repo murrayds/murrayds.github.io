@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Dakota Murray</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Dec 2020 17:31:32 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Jan 2021 11:47:51 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Dakota Murray</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
-      <pubDate>Tue, 15 Dec 2020 17:31:32 -0500</pubDate>
+      <pubDate>Fri, 08 Jan 2021 11:47:51 -0500</pubDate>
       <guid>/talk/</guid>
       <description></description>
     </item>
