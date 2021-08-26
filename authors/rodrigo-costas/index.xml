@@ -5,12 +5,20 @@
     <link>/authors/rodrigo-costas/</link>
       <atom:link href="/authors/rodrigo-costas/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Costas</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 10:29:58 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Rodrigo Costas</title>
       <link>/authors/rodrigo-costas/</link>
     </image>
+    
+    <item>
+      <title>Unsupervised Embedding of Trajectories Captures the Latent Structure of Mobility</title>
+      <link>/publication/murray-unsupervised-embedding-trajectories-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/murray-unsupervised-embedding-trajectories-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Embedding co-affiliation trajectories captures structure of global scientific mobility (Poster)</title>
@@ -21,34 +29,34 @@
     </item>
     
     <item>
-      <title>The many faces of mobility: Using bibliometric data to measure the movement of scientists</title>
-      <link>/publication/robinson-garcia-many-2019/</link>
+      <title>The Many Faces of Mobility: Using Bibliometric Data to Measure the Movement of Scientists</title>
+      <link>/publication/robinson-garcia-many-faces-mobility-2019/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/robinson-garcia-many-2019/</guid>
+      <guid>/publication/robinson-garcia-many-faces-mobility-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scientific mobility indicators in practice: International mobility profiles at the country level</title>
-      <link>/publication/robinson-garcia-scientific-2018/</link>
+      <title>Scientific Mobility Indicators in Practice: International Mobility Profiles at the Country Level</title>
+      <link>/publication/robinson-garcia-scientific-mobility-indicators-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/robinson-garcia-scientific-2018/</guid>
+      <guid>/publication/robinson-garcia-scientific-mobility-indicators-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Global Comparison of Scientific Mobility and Collaboration According to National Scientific Capacities</title>
-      <link>/publication/chinchilla-rodriguez-global-2018/</link>
+      <link>/publication/chinchilla-rodriguez-global-comparison-scientific-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/chinchilla-rodriguez-global-2018/</guid>
+      <guid>/publication/chinchilla-rodriguez-global-comparison-scientific-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Scientists have most impact when they&#39;re free to move</title>
-      <link>/publication/sugimoto-scientists-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/sugimoto-scientists-2017/</guid>
+      <title>Scientists Have Most Impact When They&#39;re Free to Move</title>
+      <link>/publication/sugimoto-scientists-have-most-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/sugimoto-scientists-have-most-2017/</guid>
       <description></description>
     </item>
     

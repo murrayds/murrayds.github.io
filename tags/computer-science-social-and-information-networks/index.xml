@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science - Social and Information Networks | Dakota Murray</title>
+    <link>/tags/computer-science-social-and-information-networks/</link>
+      <atom:link href="/tags/computer-science-social-and-information-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Science - Social and Information Networks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Computer Science - Social and Information Networks</title>
+      <link>/tags/computer-science-social-and-information-networks/</link>
+    </image>
+    
+    <item>
+      <title>The Latent Structure of National Scientific Development</title>
+      <link>/publication/miao-latent-structure-national-2021-a/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/miao-latent-structure-national-2021-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

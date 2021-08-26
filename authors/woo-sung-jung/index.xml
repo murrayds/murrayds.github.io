@@ -5,12 +5,28 @@
     <link>/authors/woo-sung-jung/</link>
       <atom:link href="/authors/woo-sung-jung/index.xml" rel="self" type="application/rss+xml" />
     <description>Woo-Sung Jung</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 10:29:58 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Woo-Sung Jung</title>
       <link>/authors/woo-sung-jung/</link>
     </image>
+    
+    <item>
+      <title>The Latent Structure of National Scientific Development</title>
+      <link>/publication/miao-latent-structure-national-2021-a/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/miao-latent-structure-national-2021-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Embedding of Trajectories Captures the Latent Structure of Mobility</title>
+      <link>/publication/murray-unsupervised-embedding-trajectories-2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/murray-unsupervised-embedding-trajectories-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Embedding co-affiliation trajectories captures structure of global scientific mobility (Poster)</title>

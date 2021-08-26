@@ -5,12 +5,20 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 17 Jan 2021 21:10:51 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Aug 2021 12:00:50 -0400</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>2021 Dissertation</title>
+      <link>/talk/2021-dissertation/</link>
+      <pubDate>Thu, 26 Aug 2021 12:00:50 -0400</pubDate>
+      <guid>/talk/2021-dissertation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>2021 Copenhagen</title>

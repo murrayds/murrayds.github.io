@@ -5,12 +5,20 @@
     <link>/authors/lili-miao/</link>
       <atom:link href="/authors/lili-miao/index.xml" rel="self" type="application/rss+xml" />
     <description>Lili Miao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Jul 2020 10:19:04 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Lili Miao</title>
       <link>/authors/lili-miao/</link>
     </image>
+    
+    <item>
+      <title>The Latent Structure of National Scientific Development</title>
+      <link>/publication/miao-latent-structure-national-2021-a/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/miao-latent-structure-national-2021-a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Scientific Development of Nations (Poster)</title>
@@ -22,9 +30,9 @@
     
     <item>
       <title>A Global Comparison of Scientific Mobility and Collaboration According to National Scientific Capacities</title>
-      <link>/publication/chinchilla-rodriguez-global-2018/</link>
+      <link>/publication/chinchilla-rodriguez-global-comparison-scientific-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/chinchilla-rodriguez-global-2018/</guid>
+      <guid>/publication/chinchilla-rodriguez-global-comparison-scientific-2018/</guid>
       <description></description>
     </item>
     

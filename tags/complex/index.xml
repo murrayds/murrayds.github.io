@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>complex | Dakota Murray</title>
+    <link>/tags/complex/</link>
+      <atom:link href="/tags/complex/index.xml" rel="self" type="application/rss+xml" />
+    <description>complex</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>complex</title>
+      <link>/tags/complex/</link>
+    </image>
+    
+    <item>
+      <title>The Many Faces of Mobility: Using Bibliometric Data to Measure the Movement of Scientists</title>
+      <link>/publication/robinson-garcia-many-faces-mobility-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/robinson-garcia-many-faces-mobility-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

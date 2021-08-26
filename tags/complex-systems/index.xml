@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Complex systems | Dakota Murray</title>
+    <link>/tags/complex-systems/</link>
+      <atom:link href="/tags/complex-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Complex systems</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Complex systems</title>
+      <link>/tags/complex-systems/</link>
+    </image>
+    
+    <item>
+      <title>A Breeding Pool of Ideas: Analyzing Interdisciplinary Collaborations at the Complex Systems Summer School</title>
+      <link>/publication/brown-breeding-pool-ideas-2021-a/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/brown-breeding-pool-ideas-2021-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

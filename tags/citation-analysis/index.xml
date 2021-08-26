@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citation analysis | Dakota Murray</title>
+    <link>/tags/citation-analysis/</link>
+      <atom:link href="/tags/citation-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Citation analysis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Citation analysis</title>
+      <link>/tags/citation-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the Personal and Professional Factors Associated with Student Evaluations of Tenure-Track Faculty</title>
+      <link>/publication/murray-exploring-personal-professional-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/murray-exploring-personal-professional-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

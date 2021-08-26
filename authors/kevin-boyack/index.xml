@@ -5,12 +5,20 @@
     <link>/authors/kevin-boyack/</link>
       <atom:link href="/authors/kevin-boyack/index.xml" rel="self" type="application/rss+xml" />
     <description>Kevin Boyack</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 28 Aug 2020 20:46:24 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Kevin Boyack</title>
       <link>/authors/kevin-boyack/</link>
     </image>
+    
+    <item>
+      <title>Measuring Disagreement in Science</title>
+      <link>/publication/lamers-measuring-disagreement-science-2021-a/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/lamers-measuring-disagreement-science-2021-a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A scientometric analysis of disagreement in science</title>
