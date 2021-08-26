@@ -5,12 +5,26 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Aug 2021 12:38:42 -0400</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Thu, 26 Aug 2021 12:38:42 -0400</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I aim to understand the social dimensions of the global scientific ecosystem by leveraging massive datasets, computational techniques, and social theory.&lt;/p&gt;
+
+&lt;p&gt;I have a PhD in &lt;a href=&#34;https://luddy.indiana.edu/&#34; target=&#34;_blank&#34;&gt;Informatics&lt;/a&gt; from Indiana University Bloomington, where I wrote my dissertation &lt;a href=&#34;slides/dissertation_presentation.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;&amp;ldquo;Embracing Complexity in the Science of Science&amp;rdquo;&lt;/em&gt;&lt;/a&gt; under the amazing mentorship of &lt;a href=&#34;https://ella.sice.indiana.edu/~sugimoto/index.php&#34; target=&#34;_blank&#34;&gt;Dr. Cassidy Sugimoto&lt;/a&gt; and &lt;a href=&#34;https://yongyeol.com/&#34; target=&#34;_blank&#34;&gt;Dr. Yong-Yeol Ahn&lt;/a&gt;.
+I am an alumni of the &lt;a href=&#34;https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school&#34; target=&#34;_blank&#34;&gt;Santa Fe Institute&amp;rsquo;s Complex Systems Summer School&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When not working, I enjoy running, cooking, traveling, reading, and spending time with my wonderful wife and daughter.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cassidy R. Sugimoto</title>
@@ -122,20 +136,6 @@
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>/authors/kyle-furlong/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/authors/admin/</link>
-      <pubDate>Tue, 15 Dec 2020 17:31:32 -0500</pubDate>
-      <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;I aim to understand the social dimensions of the global scientific ecosystem by leveraging massive datasets, computational techniques, and social theory.&lt;/p&gt;
-
-&lt;p&gt;I have a PhD in &lt;a href=&#34;https://luddy.indiana.edu/&#34; target=&#34;_blank&#34;&gt;Informatics&lt;/a&gt; from Indiana University Bloomington, where I wrote my dissertation &lt;a href=&#34;slides/dissertation_presentation.pdf&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;&amp;ldquo;Embracing Complexity in the Science of Science&amp;rdquo;&lt;/em&gt;&lt;/a&gt; under the amazing mentorship of &lt;a href=&#34;https://ella.sice.indiana.edu/~sugimoto/index.php&#34; target=&#34;_blank&#34;&gt;Dr. Cassidy Sugimoto&lt;/a&gt; and &lt;a href=&#34;https://yongyeol.com/&#34; target=&#34;_blank&#34;&gt;Dr. Yong-Yeol Ahn&lt;/a&gt;.
-I am an alumni of the &lt;a href=&#34;https://www.santafe.edu/engage/learn/schools/sfi-complex-systems-summer-school&#34; target=&#34;_blank&#34;&gt;Santa Fe Institute&amp;rsquo;s Complex Systems Summer School&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;When not working, I enjoy running, cooking, traveling, reading, and spending time with my wonderful wife and daughter.&lt;/p&gt;
-</description>
     </item>
     
     <item>
