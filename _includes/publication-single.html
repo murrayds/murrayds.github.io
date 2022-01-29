@@ -1,0 +1,56 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="publication__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <h3 class="publication__item-title" itemprop="headline">
+      <p>{{ title }}</p>
+    </h3>
+
+    <p class="publication__citation">{{ post.citation }}</p>
+
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}" class="fas fa-link publication-resource">  Link  </a>
+      {% endif %}
+
+      {% if post.codeurl %}
+        <a href="{{ post.codeurl }}" class="fas fa-code publication-resource">  Code  </a>
+      {% endif %}
+
+      {% if post.dataurl %}
+        <a href="{{ post.dataurl }}" class="fas fa-database publication-resource">  Data  </a>
+      {% endif %}
+
+      {% if post.dashboardurl %}
+        <a href="{{ post.dashboardurl }}" class="fas fa-chart-bar publication-resource">  Dashboard  </a>
+      {% endif %}
+
+      {% if post.slidesurl %}
+        <a href="{{ post.slidesurl }}" class="fas fa-desktop publication-resource">  Slides  </a>
+      {% endif %}
+
+      {% if post.blogurl %}
+        <a href="{{ post.blogurl }}" class="fas fa-paragraph publication-resource">  Blog  </a>
+      {% endif %}
+
+      {% if post.posterurl %}
+        <a href="{{ post.posterurl }}" class="fas fa-image publication-resource">  Poster  </a>
+      {% endif %}
+
+      {% if post.videourl %}
+        <a href="{{ post.videourl }}" class="fas fa-video publication-resource">  Video  </a>
+      {% endif %}
+  </article>
+</div>
