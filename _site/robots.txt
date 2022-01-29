@@ -1,1 +1,1 @@
-Sitemap: https://dakotamurray.me/sitemap.xml
+Sitemap: http://localhost:4000/murrayds/sitemap.xml
