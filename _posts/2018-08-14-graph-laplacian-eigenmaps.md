@@ -57,6 +57,6 @@ There are many uses for graph embeddings. They allow for fast computation of nod
 
 This content was largely drawn from the following resources,
 
-> Cai, H., Zheng, V. W., & Chang, K. C.-C. (2017). A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications. ArXiv:1709.07604 [Cs]. Retrieved from http://arxiv.org/abs/1709.07604
+> Cai, H., Zheng, V. W., & Chang, K. C.-C. (2017). A Comprehensive Survey of Graph Embedding: Problems, Techniques and Applications. ArXiv:1709.07604 [Cs]. Retrieved from https://arxiv.org/abs/1709.07604
 
-> Belkin, M., & Niyogi, P. (2001). Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering. Proceedings of the 14th International Conference on Neural Information Processing Systems: Natural and Synthetic, 585–591. Retrieved from http://dl.acm.org/citation.cfm?id=2980539.2980616
+> Belkin, M., & Niyogi, P. (2001). Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering. Proceedings of the 14th International Conference on Neural Information Processing Systems: Natural and Synthetic, 585–591. Retrieved from https://dl.acm.org/citation.cfm?id=2980539.2980616
