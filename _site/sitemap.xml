@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://dakotamurray.me/portfolio/portfolio-1/</loc>
 </url>
@@ -55,7 +55,7 @@
 <lastmod>2020-06-03T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://dakotamurray.me/http:/arxiv.org/abs/2012.02785</loc>
+<loc>https://dakotamurray.me/https:/arxiv.org/abs/2012.02785</loc>
 <lastmod>2020-12-04T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -67,7 +67,7 @@
 <lastmod>2021-04-14T00:00:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://dakotamurray.me/http:/arxiv.org/abs/2104.10812</loc>
+<loc>https://dakotamurray.me/https:/arxiv.org/abs/2104.10812</loc>
 <lastmod>2021-04-22T00:00:00+00:00</lastmod>
 </url>
 <url>
@@ -109,6 +109,10 @@
 <url>
 <loc>https://dakotamurray.me/talks/2021-09-26-dissertation/</loc>
 <lastmod>2021-09-26T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://dakotamurray.me/talks/2022-06-29-ISKOUK/</loc>
+<lastmod>2022-06-29T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://dakotamurray.me/teaching/2014-spring-teaching-1</loc>
@@ -186,6 +190,6 @@
 </url>
 <url>
 <loc>https://dakotamurray.me/talkmap/map.html</loc>
-<lastmod>2022-01-29T21:09:09+00:00</lastmod>
+<lastmod>2022-02-22T22:31:03+00:00</lastmod>
 </url>
 </urlset>
