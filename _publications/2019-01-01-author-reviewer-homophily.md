@@ -2,6 +2,7 @@
 title: "Author-Reviewer Homophily in Peer Review"
 collection: publications
 permalink: 'https://doi.org/10.1101/400515'
+doi: '10.1101/400515'
 date: 2019-01-01
 codeurl: 'https://github.com/murrayds/elife-analysis'
 paperurl: 'https://doi.org/10.1101/400515'
