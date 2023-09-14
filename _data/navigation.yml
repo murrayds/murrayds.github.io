@@ -15,7 +15,7 @@ main:
   # - title: "Blog"
   #   url: /year-archive/
 
-  - title "Wiki"
+  - title: "Wiki"
     url: https://publish.obsidian.md/dakotamurray/Index
 
   - title: "CV"
