@@ -15,6 +15,9 @@ main:
   # - title: "Blog"
   #   url: /year-archive/
 
+  - title: "InfoEco Lab"
+    url: /lab/
+
   - title: "Wiki"
     url: https://publish.obsidian.md/dakotamurray/Index
 

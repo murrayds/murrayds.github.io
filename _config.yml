@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Dakota Murray"
   avatar           : "headshot_minimal.jpg"
-  bio              : "Research Professor @ Network Science Institute"
-  location         : "Boston"
-  coordinates      : "https://www.google.com/maps/place/177+Huntington+Ave,+Boston,+MA+02115/@42.3449303,-71.0849754"
-  employer         : Northeastern University
+  bio              : "Assistant Professor @ UAlbany"
+  location         : "Albany, NY"
+  coordinates      : 
+  employer         : "University at Albany"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=sgTiLBUAAAAJ"
   email            : "dakota.s.murray@gmail.com"
