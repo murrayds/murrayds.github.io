@@ -30,9 +30,13 @@ Below are a few of the themes our lab explores:
 **PhD Students**
 - Zhouming Wu (Northeastern University)
 
+**Undergraduate Students**
+
+
 **Visiting Students**
 - Yixuan Liu (PhD student, Northeastern University)
 - Zhuoqi Liu (Masters' student, Northeastern University)
+
 
 
 ## Join InfoEco Lab!
