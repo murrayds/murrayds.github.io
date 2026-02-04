@@ -31,7 +31,7 @@ Below are a few of the themes our lab explores:
 - Zhouming Wu (Northeastern University)
 
 **Undergraduate Students**
-
+- Gonzalo Martinez-Valeriano (University at Albany, SUNY)
 
 **Visiting Students**
 - Yixuan Liu (PhD student, Northeastern University)
