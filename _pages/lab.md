@@ -31,7 +31,8 @@ Below are a few of the themes our lab explores:
 - Zhouming Wu (Northeastern University)
 
 **Undergraduate Students**
-- Gonzalo Martinez-Valeriano (University at Albany, SUNY)
+- Gonzalo Martinez-Valeriano (University at Albany)
+- Nathan Strunk (University at Albany)
 
 **Visiting Students**
 - Yixuan Liu (PhD student, Northeastern University)
