@@ -28,6 +28,7 @@ Below are a few of the themes our lab explores:
 ## People
 
 **PhD Students**
+- Tom Waters (University at Albany)
 - Zhouming Wu (Northeastern University)
 
 **Undergraduate Students**
