@@ -7,6 +7,7 @@ author_profile: true
 
 We are the **Information Ecosystems Lab** (***InfoEco***). Information is everywhere. We make it, we consume it, and we pass it around. Our lab understands how ecosystems of information work: who createes information and how? how does information spread through social netowrks? And what are the impacts of information on innovation, creativity, and other human behaviour?
 
+You can access our [Lab Manual Here!](http://dakotamurray.me/info-eco-docs/)
 
 ## Research
 Our research is diverse. We examine how new technologies, such as large-language models, are shaping the way that people access information. We also are intersted in how people form teams and collaborate—and exchanging information in the process—to solve difficult problems. A running theme of our work is in the _Science of Science_, which aims to understand the social forces that underly science. 
@@ -32,13 +33,15 @@ Below are a few of the themes our lab explores:
 - Zhouming Wu (Northeastern University)
 
 **Undergraduate Students**
-- Gonzalo Martinez-Valeriano (University at Albany)
-- Nathan Strunk (University at Albany)
+- 
 
 **Visiting Students**
 - Yixuan Liu (PhD student, Northeastern University)
 - Zhuoqi Liu (Masters' student, Northeastern University)
 
+**Allumni**
+- Gonzalo Martinez-Valeriano (University at Albany, undergraduate)
+- Nathan Strunk (University at Albany, undergraduate)
 
 
 ## Join InfoEco Lab!
