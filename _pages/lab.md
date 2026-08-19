@@ -31,6 +31,7 @@ Below are a few of the themes our lab explores:
 **PhD Students**
 - Tom Waters (University at Albany)
 - Zhouming Wu (Northeastern University)
+- Md Monoarul Islam Bhuiyan (University at Albany)
 
 **Undergraduate Students**
 - 
