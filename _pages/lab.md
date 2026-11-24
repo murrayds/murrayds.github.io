@@ -34,7 +34,9 @@ Below are a few of the themes our lab explores:
 - Md Monoarul Islam Bhuiyan (University at Albany)
 
 **Undergraduate Students**
+- Keady Van Zandt (University at Albany)
 - Hasan Serville
+
 
 **Visiting Students**
 - Yixuan Liu (PhD student, Northeastern University)
